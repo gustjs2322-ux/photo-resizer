@@ -1,0 +1,18 @@
+# 배포·시험 중에 생기는 임시 파일
+_*.txt
+_*.hex
+_*.json
+!preset.json
+*.zip
+
+# 운영체제가 만드는 것
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 파이썬
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec

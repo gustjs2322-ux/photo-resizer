@@ -1,0 +1,22 @@
+{
+  "width": 1200,
+  "height": 1200,
+  "fit": "contain",
+  "longEdge": 1600,
+  "noUpscale": false,
+  "hAlign": "center",
+  "vAlign": "middle",
+  "pad": 0,
+  "offsetX": 0,
+  "offsetY": 0,
+  "subject": false,
+  "subjectRatio": 0.8,
+  "bg": "auto",
+  "bgColor": "#ffffff",
+  "format": "image/jpeg",
+  "quality": 0.9,
+  "prefix": "",
+  "suffix": "",
+  "sequence": false,
+  "_note": "utou 회사 기본 설정 - 1200x1200, 정중앙, 사진 전체 보이기, 여백은 사진 색에 자동. 피사체 크기 통일은 필요할 때만 켜세요."
+}
